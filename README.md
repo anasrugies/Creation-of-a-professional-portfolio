@@ -1,6 +1,9 @@
-# Creation-of-a-professional-portfolio
-Step-by-step creation of a professional portfolio for the showcase of projects, skills, and ideas.
+# **CREATION OF A PROFESSIONAL PORTFOLIO**
+_A step-by-step guide to building a professional portfolio for showcasing projects, skills, and ideas._
 
-This repository documents the process of building a modern, responsive personal portfolio using HTML and CSS, including layout design, styling techniques, and deployment using GitHub Pages.
+---
 
-It serves both as a learning resource and a practical example of how to structure and host a personal portfolio website to highlight creative or technical work.
+- This repository documents the process of creating a **modern**, **responsive** personal portfolio using **HTML** and **CSS**, covering layout design, styling techniques, and deployment through **GitHub Pages**.  
+- It serves as both a **learning resource** and a **practical example** of how to structure and host a personal website that highlights your **creative** and **technical work** effectively.
+
+---

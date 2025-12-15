@@ -1,1 +1,13 @@
-
+# ****DAY 1****
+Today we will focus on **setting up the project.**
+1. Create a project folder on your computer (e.g., Professional-Portfolio).
+2. Initialize Git:
+```bash
+git init
+```
+3. Create basic files: index.html and style.css.
+4. Make your first commit:
+```bash
+git add .
+git commit -m "Initial commit: setup project folder and basic files"
+```
